@@ -1,15 +1,16 @@
-# Principal Component Analysis (P.C.A) - Identify and feature reduce data down to essential componnents !!! 
+# Principal Component Analysis (P.C.A) - Identify and feature reduce data down to essential components !!! 
 
 ![Code Logo](code.png)
 
-## Welcome to the ** Principal component analysis ** repository! 
 ## This project demonstrates how to identify and reduce or combine features down to the most essential components !! 
 
 ![Developer Logo](developer.png)
 
 ## PCA is often used for various purposes in data science, including data visualization, noise reduction, and feature selection. 
-## It can  help in reducing the dimensionality of data while minimizing the loss of important information.
-## PCA makes it easier to analyze and visualize high-dimensional datasets.
+## It can  help in reducing the dimensionality of data while minimizing the loss of important Features.
+ 
+
+![Developer Logo](developer.png)
 
 ## Features
 
