@@ -4,7 +4,7 @@
 
 ## This project demonstrates how to identify and reduce or combine features down to the most essential components !! 
 
-![Developer Logo](developer.png)
+![Sample Logo](sample.png)
 
 ## PCA is often used for various purposes in data science, including data visualization, noise reduction, and feature selection. 
 ## It can  help in reducing the dimensionality of data while minimizing the loss of important Features.
