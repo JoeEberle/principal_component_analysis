@@ -21,12 +21,8 @@
 - Includes Correlation Heatmaps
 - Automate data profiling tasks 
 - Makes complex Data simpler
- 
-
 
 ![sample Logo](sample.png)
-
-
 
 ## Notebook Features
 
