@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Principal Component Analysis - Solution for Principal Component Analysis
 Solution for Principal Component Analysis
 
@@ -9,8 +11,6 @@ Welcome to the solution **Principal Component Analysis** - an example for your p
 Solution for Principal Component Analysis
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
