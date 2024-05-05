@@ -48,5 +48,5 @@ To get started with the **Principal Component Analysis** solution repository, fo
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](pca.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](pca.png)  <br>
     
