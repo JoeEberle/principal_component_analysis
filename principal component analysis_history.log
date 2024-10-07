@@ -19,3 +19,43 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-10-06 23:54:11,716 - INFO - START principal component analysis =============================================
+2024-10-06 23:54:11,716 - INFO - START principal component analysis Start Time = 2024-10-06 23:54:11
+2024-10-06 23:54:11,716 - INFO - principal component analysis Step 0 - Initialize the configuration file parser
+2024-10-06 23:54:11,777 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-10-06 23:54:11,777 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-10-06 23:54:17,768 - INFO - Process principal component analysis Step 0 - Initializing and starting Process.
+2024-10-06 23:54:22,527 - INFO -  Step 1 - Load ANY data set for which to run principal components Analysis
+2024-10-06 23:54:29,419 - INFO -  Step 1b - Loaded data set diabetes that contains 70692 rows and 18 columns.
+2024-10-06 23:54:36,757 - INFO - Process principal component analysis Step 2 - Define a function that takes any Data frame and performs PCA ranking process.
+2024-10-06 23:54:44,117 - INFO - Optional Process principal component analysis Step 3  - Display a correlation matrix for all fields in the data frame.
+2024-10-06 23:54:52,788 - INFO - Optional Process principal component analysis Step 3b  - Display and compare the correlation heatmap of the reduced PCA fields in the data frame.
+2024-10-06 23:54:53,005 - INFO - PERFORMANCE principal component analysis The total process duration was:41.29
+2024-10-06 23:54:53,006 - INFO - PERFORMANCE principal component analysis Stop Time = 2024-10-06 23:54:53
+2024-10-06 23:54:53,006 - INFO - PERFORMANCE principal component analysis Low process duration less than 3 minutes:41.29
+2024-10-06 23:54:53,006 - INFO - PERFORMANCE principal component analysis Performance optimization is optional
+2024-10-06 23:54:53,006 - INFO - END principal component analysis =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-10-07 00:05:13,849 - INFO - START principal component analysis =============================================
+2024-10-07 00:05:13,849 - INFO - START principal component analysis Start Time = 2024-10-07 00:05:13
+2024-10-07 00:05:13,849 - INFO - principal component analysis Step 0 - Initialize the configuration file parser
+2024-10-07 00:05:13,850 - INFO - Process principal component analysis Step 0 - Initializing and starting Process.
+2024-10-07 00:05:13,924 - INFO -  Step 1 - Load ANY data set for which to run principal components Analysis
+2024-10-07 00:05:14,032 - INFO -  Step 1b - Loaded data set diabetes that contains 70692 rows and 18 columns.
+2024-10-07 00:05:14,148 - INFO - Process principal component analysis Step 2 - Define a function that takes any Data frame and performs PCA ranking process.
+2024-10-07 00:05:15,141 - INFO - Optional Process principal component analysis Step 3  - Display a correlation matrix for all fields in the data frame.
+2024-10-07 00:05:16,100 - INFO - Optional Process principal component analysis Step 3b  - Display and compare the correlation heatmap of the reduced PCA fields in the data frame.
+2024-10-07 00:05:16,377 - INFO - PERFORMANCE principal component analysis The total process duration was:2.53
+2024-10-07 00:05:16,377 - INFO - PERFORMANCE principal component analysis Stop Time = 2024-10-07 00:05:16
+2024-10-07 00:05:16,377 - INFO - PERFORMANCE principal component analysis Short process duration less than 3 Seconds:2.53
+2024-10-07 00:05:16,377 - INFO - PERFORMANCE principal component analysis Performance optimization is not reccomended
+2024-10-07 00:05:16,377 - INFO - END principal component analysis =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
