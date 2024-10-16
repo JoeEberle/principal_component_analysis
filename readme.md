@@ -171,11 +171,8 @@ To get started with the **Principal Component Analysis** solution repository, fo
  ![additional_image](pca.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
