@@ -4,7 +4,25 @@
 
 ## Solution for Principal Component Analysis
 
-    ![Image image_filename](code.png)
+    
+![Solution](code.png)
+
+    
+## Table of Contents
+
+- [Solution Overview](#solution-overview)
+- [Who will use this ?](#who-can-use)
+- [Advantages of Using](#advantages-of-using)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Code Features](#code-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+
 ## Overview of Principal Component Analysis (PCA)
 Principal Component Analysis (PCA) is a dimensionality reduction technique commonly used in data science to simplify large datasets while preserving as much variance as possible. The main purpose of PCA is to transform data into a new coordinate system where the greatest variances (or principal components) are aligned with the axes. This helps reduce the complexity of data, allowing for more efficient analysis and visualization, especially when working with datasets that have a large number of variables or features.
 
@@ -140,7 +158,13 @@ This **README.md** provides a structured and clear overview of a PCA implementat
 
 
 
-![Image image_filename](code.png)![Image image_filename](sample.png)
+
+![Solution](code.png)
+
+    
+![Solution](code.png)
+
+    
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
