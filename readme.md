@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Principal Component Analysis - Solution for Principal Component Analysis
-Solution for Principal Component Analysis
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Principal Component Analysis - Solution for Principal Component Analysis![Image image_filename](code.png)
 ## Overview of Principal Component Analysis (PCA)
 Principal Component Analysis (PCA) is a dimensionality reduction technique commonly used in data science to simplify large datasets while preserving as much variance as possible. The main purpose of PCA is to transform data into a new coordinate system where the greatest variances (or principal components) are aligned with the axes. This helps reduce the complexity of data, allowing for more efficient analysis and visualization, especially when working with datasets that have a large number of variables or features.
 
@@ -141,9 +134,7 @@ This **README.md** provides a structured and clear overview of a PCA implementat
 
 
 
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **Principal Component Analysis** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -158,6 +149,9 @@ To get started with the **Principal Component Analysis** solution repository, fo
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -167,13 +161,11 @@ To get started with the **Principal Component Analysis** solution repository, fo
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](pca.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
