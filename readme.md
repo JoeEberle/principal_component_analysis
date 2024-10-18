@@ -134,7 +134,7 @@ This **README.md** provides a structured and clear overview of a PCA implementat
 
 
 
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
