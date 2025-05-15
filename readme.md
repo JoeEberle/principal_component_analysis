@@ -8,20 +8,6 @@
 ![Solution](code.png)
 
     
-## Table of Contents
-
-- [Solution Overview](#solution-overview)
-- [Who will use this ?](#who-can-use)
-- [Advantages of Using](#advantages-of-using)
-- [Return on Investment (ROI)](#return-on-investment-roi)
-- [How it Works](#how-it-works)
-- [Conclusion](#conclusion)
-- [Getting Started](#getting-started)
-- [Solution Features](#solution-features)
-- [Code Features](#code-features)
-- [Deliverables or Figures](#deliverables-or-figures)
-- [Contact Information](#contact-information)
-
 
 ## Overview of Principal Component Analysis (PCA)
 Principal Component Analysis (PCA) is a dimensionality reduction technique commonly used in data science to simplify large datasets while preserving as much variance as possible. The main purpose of PCA is to transform data into a new coordinate system where the greatest variances (or principal components) are aligned with the axes. This helps reduce the complexity of data, allowing for more efficient analysis and visualization, especially when working with datasets that have a large number of variables or features.
@@ -33,13 +19,13 @@ Improving interpretability: It makes it easier to visualize data in 2D or 3D whi
 Enhancing computational efficiency: It speeds up the analysis by reducing the feature space, making algorithms more efficient.
 PCA is widely used in areas like image processing, exploratory data analysis, and pre-processing for machine learning algorithms.
 
-Here�s a sample **README.md** file for a **Principal Component Analysis (PCA) solution** using **Scikit-learn's PCA** library:
+Here’s a sample **README.md** file for a **Principal Component Analysis (PCA) solution** using **Scikit-learn's PCA** library:
 
 ---
 
 # Principal Component Analysis (PCA) with Scikit-Learn
 
-This project demonstrates how to implement **Principal Component Analysis (PCA)** using Python�s **Scikit-Learn (sklearn)** library. PCA is a technique for reducing the dimensionality of datasets, increasing interpretability while minimizing information loss.
+This project demonstrates how to implement **Principal Component Analysis (PCA)** using Python’s **Scikit-Learn (sklearn)** library. PCA is a technique for reducing the dimensionality of datasets, increasing interpretability while minimizing information loss.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -123,7 +109,7 @@ The dataset should be a **CSV file** with numerical values. Each row represents 
 ## PCA Workflow
 
 1. **Data Preprocessing**: Standardize the dataset to have a mean of 0 and a standard deviation of 1. This step is crucial to ensure that all features contribute equally to the PCA results.
-2. **Fit PCA Model**: Use Scikit-Learn�s `PCA` class to fit the model to the dataset and determine the principal components.
+2. **Fit PCA Model**: Use Scikit-Learn’s `PCA` class to fit the model to the dataset and determine the principal components.
 3. **Transform Data**: Reduce the dataset dimensions by projecting the original data onto the principal components.
 4. **Visualize Components**: Optionally, you can visualize the data in the space of the principal components.
 
@@ -184,18 +170,17 @@ To get started with the **Principal Component Analysis** solution repository, fo
 - Saves You Time 
 
 
-## Code Features
 
-These features are designed to provide everything you need for **Principal Component Analysis** 
+## ⚙️ Key Features
 
-- **Self Documenting** - Automatically identifes major steps in notebook 
-- **Self Testing** - Unit Testing for each function
-- **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
-- **Includes Talking Code** - The code explains itself 
-- **Self Logging** - Enhanced python standard logging   
-- **Self Debugging** - Enhanced python standard debugging
-- **Low Code** - or - No Code  - Most solutions are under 50 lines of code
-- **Educational** - Includes educational dialogue and background material
+- ✅ **Self Documenting** Automatically identifies and annotates major steps in a notebook, making the codebase readable and well structured.
+- ✅ **Self Testing** Includes built in **unit tests** for each function to validate logic and ensure code reliability.
+- ✅ **Easily Configurable** Uses a simple **config.ini** file for centralized settings and easy customization through key value pairs.
+- ✅ **Talking Code** explains itself through inline commentary, helping you understand both **what** it does and **why** it does it.
+- ✅ **Self Logging** extends Python’s standard **logging** module for **step by step runtime insights**.
+- ✅ **Self Debugging** Includes debugging hooks and detailed error tracing to simplify development and troubleshooting.
+- ✅ **Low Code or  No Code** Designed to minimize complexity — most full solutions are under 50 lines of code.
+- ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
 ## List of Figures
