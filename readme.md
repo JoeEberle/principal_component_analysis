@@ -19,13 +19,13 @@ Improving interpretability: It makes it easier to visualize data in 2D or 3D whi
 Enhancing computational efficiency: It speeds up the analysis by reducing the feature space, making algorithms more efficient.
 PCA is widely used in areas like image processing, exploratory data analysis, and pre-processing for machine learning algorithms.
 
-Here’s a sample **README.md** file for a **Principal Component Analysis (PCA) solution** using **Scikit-learn's PCA** library:
+Here�s a sample **README.md** file for a **Principal Component Analysis (PCA) solution** using **Scikit-learn's PCA** library:
 
 ---
 
 # Principal Component Analysis (PCA) with Scikit-Learn
 
-This project demonstrates how to implement **Principal Component Analysis (PCA)** using Python’s **Scikit-Learn (sklearn)** library. PCA is a technique for reducing the dimensionality of datasets, increasing interpretability while minimizing information loss.
+This project demonstrates how to implement **Principal Component Analysis (PCA)** using Python�s **Scikit-Learn (sklearn)** library. PCA is a technique for reducing the dimensionality of datasets, increasing interpretability while minimizing information loss.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -109,7 +109,7 @@ The dataset should be a **CSV file** with numerical values. Each row represents 
 ## PCA Workflow
 
 1. **Data Preprocessing**: Standardize the dataset to have a mean of 0 and a standard deviation of 1. This step is crucial to ensure that all features contribute equally to the PCA results.
-2. **Fit PCA Model**: Use Scikit-Learn’s `PCA` class to fit the model to the dataset and determine the principal components.
+2. **Fit PCA Model**: Use Scikit-Learn�s `PCA` class to fit the model to the dataset and determine the principal components.
 3. **Transform Data**: Reduce the dataset dimensions by projecting the original data onto the principal components.
 4. **Visualize Components**: Optionally, you can visualize the data in the space of the principal components.
 
